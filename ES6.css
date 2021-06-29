@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    color: rgb(15, 47, 58);
+}
+form{
+    text-align: center;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color:  rgb(15, 47, 58);
+}
+#add_num1{
+    width: 20%;
+    height: 30px;
+    margin: 10px;
+    text-align: left;
+}
+#add_num2{
+    width: 20%;
+    height: 30px;
+    margin: 10px;
+    text-align: left;
+}
+button{
+    background-color: lightcoral;
+    width: 15%;
+    height: 50px;
+    color: rgb(15, 47, 58); 
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.result_style{
+    text-align: center;
+    color: rgb(15, 47, 58);
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px;
+}
